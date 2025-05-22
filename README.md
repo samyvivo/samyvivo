@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there👋! I'm Saman Zeitounian – enjoys philosophy and mathematics and politics 🚀 Data Scientist | 🧠 Machine Learning | 📊 Data Analytics | 🐍 Python | ®️ R
 
-<!--
-**samyvivo/samyvivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Saman Zeitounian, Graduated in Computer Science at the master's level with a focus on computation and algorithm complexity. A Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I specialize feature computer science, statistical modeling,Machine Learning, hypothesis testing and time series Analysis to extract actionable insights and solve real-world business problems and take future outcome decision. 🌱 Currently learning Generative AI and LLMs 🤝 Looking to collaborate with forward-thinking Data Science teams
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies 👨‍💻 Core Domains: Machine Learning, Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Programming Languages: Python, R
+
+🗃️ Databases: MySQL، SQL
+
+📊 Data Analysis & Visualization: R, NumPy, pandas, SQL, Matplotlib, Seaborn, SciPy
+
+🧠 ML/DL Libraries & Tools: Scikit-learn, TensorFlow, Keras
+
+🧰 Dev Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, PyCharm
+
+💬How to Rach Me: 
+Email : samyhusy@gmail.com 
+Linkdin: linkedin.com/in/saman-zeitounian-56a0a5164
