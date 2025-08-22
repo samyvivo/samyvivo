@@ -60,15 +60,15 @@ I specialize in:
 
 [![W3Schools Data Science](https://img.shields.io/badge/W3Schools-Data%20Science-green?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HDZLQB)  
 
-[![W3Schools Data Analyst](https://img.shields.io/badge/W3Schools-Data%20Analyst-orange?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HDZLQB)
+[![W3Schools Data Analyst](https://img.shields.io/badge/W3Schools-Data%20Analyst-orange?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HFGY29)
 
-[![W3Schools Pandas](https://img.shields.io/badge/W3Schools-Pandas-red?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HDZLQB)
+[![W3Schools Pandas](https://img.shields.io/badge/W3Schools-Pandas-red?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1PQJZOQFM8)
 
-[![W3Schools Python](https://img.shields.io/badge/W3Schools-Python-yellow?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HDZLQB) 
+[![W3Schools Python](https://img.shields.io/badge/W3Schools-Python-yellow?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1PNLGEFK8F) 
 
-[![W3Schools Numpy](https://img.shields.io/badge/W3Schools-Numpy-cyan?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HDZLQB)
+[![W3Schools Numpy](https://img.shields.io/badge/W3Schools-Numpy-cyan?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1PP4QWMQII)
 
-[![W3Schools R](https://img.shields.io/badge/W3Schools-R-blue?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1Q41HDZLQB)  
+[![W3Schools R](https://img.shields.io/badge/W3Schools-R-blue?style=for-the-badge&logo=w3schools&logoColor=white)](https://verify.w3schools.com/1PUOR16YJ5)  
 
 
 
