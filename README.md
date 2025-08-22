@@ -15,5 +15,7 @@ I’m Saman Zeitounian, Graduated in Computer Science at the master's level with
 🧰 Dev Tools: VS Code, Jupyter Notebook, Google Colab, Kaggle, PyCharm
 
 💬How to Rach Me: 
-Email : samyhusy@gmail.com 
+
+Email : samanzeitounian@gmail.com
+ 
 Linkdin: linkedin.com/in/saman-zeitounian-56a0a5164
