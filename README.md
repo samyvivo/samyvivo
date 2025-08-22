@@ -53,8 +53,7 @@ I specialize in:
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="40"/></a>
 </p>
 
-
-## 🎓 Certifications  
+---
 
 ## 🎓 Certifications  
 
