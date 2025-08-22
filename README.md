@@ -17,7 +17,7 @@ I specialize in:
 
 🌱 Currently exploring **Generative AI**, **Natural Language Processing** and **Large Language Models (LLMs)**.  
 
----
+
 
 ## 🛠️ Skills, Languages & Tools  
 
@@ -53,7 +53,7 @@ I specialize in:
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.svg" width="40"/></a>
 </p>
 
----
+
 
 ## 🎓 Certifications  
 
@@ -72,7 +72,6 @@ I specialize in:
 
 
 
----
 
 ## 📫 How to Reach Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanzeitounian@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saman-zeitounian-56a0a5164) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/samanzeitounain) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samyvivo) 
