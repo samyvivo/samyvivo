@@ -1,6 +1,6 @@
 Hi there👋! I'm Saman Zeitounian – enjoys philosophy and mathematics and politics 🚀 Data Scientist | 🧠 Machine Learning | 📊 Data Analytics | 🐍 Python | ®️ R
 
-I’m Saman Zeitounian, Graduated in Computer Science at the master's level with a focus on computation and algorithm complexity. A Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I specialize feature computer science, statistical modeling,Machine Learning, hypothesis testing and time series Analysis to extract actionable insights and solve real-world business problems and take future outcome decision. 🌱 Currently learning Generative AI and LLMs 🤝 Looking to collaborate with forward-thinking Data Science teams
+I’m #Saman Zeitounian#, Graduated in Computer Science at the master's level with a focus on computation and algorithm complexity. A Data Scientist with a strong foundation in Python, SQL, and Machine Learning. I specialize feature computer science, statistical modeling,Machine Learning, hypothesis testing and time series Analysis to extract actionable insights and solve real-world business problems and take future outcome decision. 🌱 Currently learning Generative AI and LLMs.
 
 🛠️ Skills & Technologies 👨‍💻 Core Domains: Machine Learning, Statistics
 
